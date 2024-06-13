@@ -1,0 +1,51 @@
+ 
+ 
+#t_Header > div.t-Header-branding > div.t-Header-logo > a > span{
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.t-Header-logo-link img { 
+
+  max-height: 3.5rem; 
+
+
+}
+
+img {
+    height:300px ;
+}
+
+#report_150013578538994108_catch > table.t-Report-pagination> tbody > tr > td > table > tbody > tr > td:nth-child(3){
+    display: none;
+}
+
+#R143974555448673645_data_panel > div:nth-child(2) > ul > li:nth-child(2) > span {
+    display: none;
+}
+
+#report_R149121809562461726 > div > table.t-Report-pagination.t-Report-pagination--bottom > tbody > tr > td > table > tbody > tr > td:nth-child(3){
+    display: none;
+}
+
+#report_table_R149121809562461726 > thead{
+    display:none;
+}
+
+#report_table_R149121809562461726 > tbody > tr > td > img{
+ border: 2px solid #b86002; 
+    width:135px;
+    height:160px;
+}
+
+
+
+.a-IRR-headerLink {
+    color:#04afef
+}
+
+.t-AVPList-label {
+    color:#04afef;
+    font-weight: bold
+}
+
