@@ -1,0 +1,36 @@
+#P80_Y_PERSONEL_DISPLAY{
+    color: #04afef;
+}
+
+.t-Tabs-link{
+    color: #04afef;
+}
+
+#headerRegion > div.t-Region-header > div.t-Region-headerItems.t-Region-headerItems--title{
+     display: block;
+
+  text-align: center;
+}
+
+#egitimRaporu > div.t-Region-header > div.t-Region-headerItems.t-Region-headerItems--title{
+     display: block;
+
+  text-align: center;
+}
+
+#alinanEgitim  > div.t-Region-header > div.t-Region-headerItems.t-Region-headerItems--title{
+     display: block;
+
+  text-align: center;
+}
+
+#ikRapor  > div.t-Region-header > div.t-Region-headerItems.t-Region-headerItems--title{
+     display: block;
+
+  text-align: center;
+}
+
+.a-GV-headerLabel{
+    color: #04afef;
+}
+
